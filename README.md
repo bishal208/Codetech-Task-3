@@ -119,7 +119,7 @@ Here `prediction` corresponds to:
 
 ---
 
-##‚ Directory Structure
+## Directory Structure
 
 ```
 - your-repo/
